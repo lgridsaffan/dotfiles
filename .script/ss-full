@@ -1,0 +1,3 @@
+#!/bin/bash
+
+scrot ~/Pictures/Screenshot/ && notify-send ' Chiisu!' 'Saved to ~/Pictures/Screenshot' --icon=/home/figure09/Pictures/face/face.png
